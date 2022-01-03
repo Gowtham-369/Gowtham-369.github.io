@@ -1,2 +1,2 @@
-# Gowtham-369.github.io
-## It is a static server of github
+# Pomodoro is time management technique
+# Pomodoro is named after tomato sauce.
